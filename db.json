@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "Jarek",
+      "email": "kaczorek@buziaczek.pl",
+      "password": "JarekKaczorek666!",
+      "confirmPassword": "JarekKaczorek666!",
+      "id": 1
+    }
+  ]
+}
